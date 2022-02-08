@@ -1,27 +1,23 @@
 # **Library Management**
   ## Introduction:
-        Library management is a project that manages and stores books information electronically according to users needs. 
-        The system helps both the user and library manager to keep track of all the books available in the library.
-        It allows both the admin and the user to search for the desired book.
-        This project is for monitoring and controlling the transactions in the library.
-        The is written in 'C' programming language, the functions that are mainly included in the project are adding new books, tracking the
-        issued books, searching the books.
+  Library management is a project that manages and stores books information electronically according to users needs. 
+  The system helps both the user and library manager to keep track of all the books available in the library.
+  It allows both the admin and the user to search for the desired book.
+  This project is for monitoring and controlling the transactions in the library.
+  The is written in 'C' programming language, the functions that are mainly included in the project are adding new books, tracking the
+  issued books, searching the books.
 
   ## Objectives:
 
-      1) To build a system which is easy to use and should take less time.
-
-      2) To build a system which is able to moniter all the library functions.
-
-      3) To reduce the errors made during manual record keepin.
-
-      4) To properly store the books in the library.
-
-      5) To maintain all the necessary information.
+  1) To build a system which is easy to use and should take less time.
+  2) To build a system which is able to moniter all the library functions.
+  3) To reduce the errors made during manual record keepin.
+  4) To properly store the books in the library.
+  5) To maintain all the necessary information.
   ## **BENEFITS:**
-      1) Records maintenance.
-      2) Simple and easy to use.
-      3) Secure and reliable.
+  1) Records maintenance.
+  2) Simple and easy to use.
+  3) Secure and reliable.
 
   ## **4W'S and 1H:**    
   ### Who:
