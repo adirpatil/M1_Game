@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include "defination.h"//defined structure
+#include"defination.h"//defined structure
 
 int main()
 {
