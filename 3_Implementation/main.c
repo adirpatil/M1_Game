@@ -10,7 +10,7 @@ int main()
     char name[20];
     //user input
     printf("\n");
-    printf("\tHello to Book Management system \n");
+    printf("\t\t\tHello to Book Management system \n");
     printf("\n");
     start://label
     printf("1.Add Book \t 2.Search Book \t 3.Book Issue\t 4.Book Available \t 5.Delete Book\t 6.Display\n");
